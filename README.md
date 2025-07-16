@@ -23,7 +23,7 @@ The installers include:
 - Blender
 - Firefox
 - Audacity
-- 
+
 ### Essential Version
 
 - Epic Games Launcher
