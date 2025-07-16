@@ -5,7 +5,6 @@
 
 The installers include:
 
-
     Small Version
 
 ▸ JDK x64 21
