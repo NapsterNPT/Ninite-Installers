@@ -4,8 +4,7 @@
 
 The installers include:
 
-
-###Small Version
+### Small Version
 
 - JDK x64 21
 - JDK x64 17
@@ -17,17 +16,15 @@ The installers include:
 - Visual Studio Code
 - Win Rar
 
-
-###Full Version
+### Full Version
 
 - All the programs from the Small Version
 - Anydesk
 - Blender
 - Firefox
 - Audacity
-
-
-###Essential Version
+- 
+### Essential Version
 
 - Epic Games Launcher
 - Git
