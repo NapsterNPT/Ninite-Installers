@@ -1,4 +1,4 @@
-# Ninite Installers
+# [Ninite](https://ninite.com) Installers
 
 ## Content of the installers selected by [NapsterNPT](https://github.com/NapsterNPT)
 
