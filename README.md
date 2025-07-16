@@ -1,5 +1,7 @@
-# Content of the installers made by NapsterNPT
-GitHub: https://github.com/NapsterNPT
+# Ninite Installers
+
+## Content of the installers made by NapsterNPT
+## GitHub: https://github.com/NapsterNPT
 
 The installers include:
 
