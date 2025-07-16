@@ -1,6 +1,7 @@
-# Contentend of the installers made by NapsterNPT\nGitHub: https://github.com/NapsterNPT
+# Content of the installers made by NapsterNPT
+GitHub: https://github.com/NapsterNPT
 
-The installers contains:
+The installers include:
 
 
     Small Version
@@ -18,7 +19,7 @@ The installers contains:
 
     Full Version
 
-▸ All the program from the Small Version
+▸ All the programs from the Small Version
 ▸ Anydesk
 ▸ Blender
 ▸ Firefox
