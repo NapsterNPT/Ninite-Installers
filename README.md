@@ -1,5 +1,4 @@
-# Contentend of the installers made by NapsterNPT
-# GItHub: https://github.com/NapsterNPT
+# Contentend of the installers made by NapsterNPT\nGitHub: https://github.com/NapsterNPT
 
 The installers contains:
 
